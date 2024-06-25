@@ -1,4 +1,4 @@
-const url = "https://api.openweathermap.org/data/2.5/";
+const url = "YOUR_IPA_CODE_GOES_HERE";
 const key = "";
 
 const setQuery = (e) => {
